@@ -28,9 +28,21 @@ section#telefone {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    height: 627px;
-    width: 311px;
+    height: 556px;
+    width: 277px;
     background: url(../imagens/iphone17promax.png) no-repeat;
+}
+
+div#topo-iphone {
+    background: url(../imagens/topo-iphone.png) no-repeat;
+    left: 50%;
+    top: 4%;
+    transform: translate(-50%, -50%);
+    width: 280px;
+    height: 50px;
+    position: absolute;
+    z-index: 9999;
+
 }
 
 section#redes-sociais {
@@ -58,4 +70,5 @@ iframe#tela {
     left: 16px;
     width: 246px;
     height: 534px;
+    border-radius: 30px;
 }
