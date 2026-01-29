@@ -20,7 +20,7 @@ img {
 a {
     display: block;
     color: white;
-    padding: 15px;
+    padding: 30px 15px 15px 15px;
     text-align: center;
     font-weight: bolder;
     text-decoration: none;
@@ -50,10 +50,10 @@ a#insta:hover {
 
 img#tt {
     width: 249px;
-    height: 538px;
+    height: 544px;
 }
 
 img#fb {
     width: 249px;
-    height: 538px;
+    height: 544px;
 }
